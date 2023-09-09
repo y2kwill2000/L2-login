@@ -1,0 +1,8 @@
+*.config
+*.resources
+*.manifest
+obj/x86/
+bin/Release/
+bin/Debug/
+packages/
+.vs/
